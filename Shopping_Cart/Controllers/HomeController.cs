@@ -15,12 +15,12 @@ namespace Shopping_Cart.Controllers
             this.db = db;
         }
         
-        public IActionResult Add_()
+        public string Add_()
         {
             
             db.Add(new User { UserId = "Lushuwen", Password = "Lushuwen" });
             db.SaveChanges();
-            return View();
+            return "";
         }
 
 
