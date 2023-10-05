@@ -1,29 +1,25 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Shopping_Cart.Models
 {
     public class Product
     {
-        public Product() 
-        {
-            Id = new Guid();
-        }
 
-        public Guid Id { get; set; }
-        [Required]
+        [Key]
+        [MaxLength(3)]
+        public string Id { get; set; }
+
         [MaxLength(20)]
         public string Name { get; set; }
 
-        [Required]
         [MaxLength(50)]
         public string Description { get; set; }
 
-        [Required]
-        public int Price { get; set; }
+        public double Price { get; set; }
 
-        [Required]
-        public byte Image { get; set; }
+        public byte[] Image { get; set; }
 
-        public virtual Cart Cart { get; set; }
+        public virtual ICollection<User> User { get; set; }
     }
 }

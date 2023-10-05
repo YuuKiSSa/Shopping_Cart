@@ -7,11 +7,22 @@ namespace Shopping_Cart.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly MyDbContext db;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, MyDbContext db)
         {
             _logger = logger;
+            this.db = db;
         }
+        
+        public IActionResult Add_()
+        {
+            
+            db.Add(new User { UserId = "Lushuwen", Password = "Lushuwen" });
+            db.SaveChanges();
+            return View();
+        }
+
 
         public IActionResult Index()
         {
