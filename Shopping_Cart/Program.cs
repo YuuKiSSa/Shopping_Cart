@@ -30,7 +30,7 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Home}/{action=Login}/{id?}");
 
 InitDB(app.Services);
 
@@ -40,6 +40,13 @@ void InitDB(IServiceProvider serviceProvider)
 {
     using var scope = serviceProvider.CreateScope();
     MyDbContext db = scope.ServiceProvider.GetRequiredService<MyDbContext>();
+    
     db.Database.EnsureDeleted();
     db.Database.EnsureCreated();
+    db.Add(new User { UserId = "Lushuwen", Password = "Lushuwen" });
+    db.Add(new User { UserId = "Huxinxing", Password = "Huxinxing" });
+    db.Add(new User { UserId = "Wangyibing", Password = "Wangyibing" });
+    db.Add(new User { UserId = "Songborui", Password = "Songborui" });
+
+    db.SaveChanges();
 }

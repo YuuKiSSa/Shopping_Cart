@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bHk0hURNywW/PeR1tkQtp4Ngzh4fakSrY1uXz0T3Xa4=",
+  "Hash": "rLsFJsNUSuEYSg1gKk2VscY8d95umTkVXAdy7xurNzg=",
   "Source": "Shopping_Cart",
   "BasePath": "_content/Shopping_Cart",
   "Mode": "Default",
@@ -85,12 +85,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\js\\Login.js",
       "SourceId": "Shopping_Cart",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\",
       "BasePath": "_content/Shopping_Cart",
-      "RelativePath": "js/site.js",
+      "RelativePath": "js/Login.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,7 +99,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
+      "OriginalItemSpec": "wwwroot\\js\\Login.js"
     },
     {
       "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

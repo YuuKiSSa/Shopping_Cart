@@ -14,20 +14,31 @@ namespace Shopping_Cart.Controllers
             _logger = logger;
             this.db = db;
         }
-        
-        public string Add_()
-        {
-            
-            db.Add(new User { UserId = "Lushuwen", Password = "Lushuwen" });
-            db.SaveChanges();
-            return "";
-        }
 
-
-        public IActionResult Index()
+        public IActionResult Login()
         {
             return View();
         }
+
+        public class UU
+        {
+            public string UserId { get; set; }
+            public string Password { get; set; }
+        }
+        public IActionResult Validate([FromBody] UU user)
+        {
+            if (ModelState.IsValid)
+            {
+                User? findUser = db.User.FirstOrDefault(x => x.UserId == user.UserId & x.Password == user.Password);
+                if (findUser != null)
+                {
+                    return Json(new { message = true });
+                }
+                else return Json(new { message = false });
+            }
+            return NotFound();
+        }
+
 
         public IActionResult Privacy()
         {
