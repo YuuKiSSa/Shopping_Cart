@@ -17,10 +17,12 @@ function submit() {
             if (this.status != 200) {
                 return;
             }
-            
-            if (data.message == false) {
+            let response = JSON.parse(this.responseText);
+
+            if (response.message == false) {
                 let message = document.getElementById("message");
                 message.innerHTML = "Wrong ID or Passage! Please tey again!";
+                password.value = "";
             }
             else {
                 window.location.href = "/Home/Privacy?UserId=" + userId;
@@ -29,10 +31,10 @@ function submit() {
         }
     }
 
-    let userId = document.getElementById("UserId").value;
-    let password = document.getElementById("Password").value;
+    let userId = document.getElementById("UserId");
+    let password = document.getElementById("Password");
 
-    let data = { "UserId": userId, "Password": password };
+    let data = { "UserId": userId.value, "Password": password.value };
 
     let json = JSON.stringify(data);
 
