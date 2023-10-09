@@ -13,6 +13,6 @@ namespace Shopping_Cart.Models
 
         public string Password { get; set; }
 
-        public virtual ICollection<Product> Product { get; set; }
+        public virtual Cart cart { get; set; }
     }
 }

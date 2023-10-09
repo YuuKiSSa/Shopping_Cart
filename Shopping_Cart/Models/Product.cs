@@ -5,21 +5,20 @@ namespace Shopping_Cart.Models
 {
     public class Product
     {
-
+        
         [Key]
         [MaxLength(3)]
         public string Id { get; set; }
 
-        [MaxLength(20)]
+        [MaxLength(50)]
         public string Name { get; set; }
 
-        [MaxLength(50)]
         public string Description { get; set; }
 
         public double Price { get; set; }
 
-        public byte[] Image { get; set; }
+        public double Evaluation { get; set; }
 
-        public virtual ICollection<User> User { get; set; }
+        public virtual ICollection<Cart> Cart { get; set; }
     }
 }

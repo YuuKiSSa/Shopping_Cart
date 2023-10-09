@@ -21,7 +21,7 @@ function submit() {
 
             if (response.message == false) {
                 let message = document.getElementById("message");
-                message.innerHTML = "Wrong ID or Passage! Please tey again!";
+                message.innerHTML = "Wrong ID or Passage! Please try again!";
                 password.value = "";
             }
             else {
