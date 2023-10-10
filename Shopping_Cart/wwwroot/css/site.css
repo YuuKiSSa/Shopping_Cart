@@ -75,3 +75,18 @@ input[type="password"]{
     color: #ff0000;
     font-size: 14px;
 }
+
+.product {
+    width: 30%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align:center;
+}
+
+    .product img {
+        max-width:100%;
+    }

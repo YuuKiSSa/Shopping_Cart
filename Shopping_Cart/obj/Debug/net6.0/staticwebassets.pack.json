@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\images\\Alive.jpg"
     },
     {
+      "Id": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\Digital Signal Processing.jpg",
+      "PackagePath": "staticwebassets\\images\\Digital Signal Processing.jpg"
+    },
+    {
       "Id": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\Flipped.jpg",
       "PackagePath": "staticwebassets\\images\\Flipped.jpg"
     },
@@ -41,12 +45,28 @@
       "PackagePath": "staticwebassets\\images\\Jane Eyre.jpg"
     },
     {
+      "Id": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\Java object-oriented programming.jpg",
+      "PackagePath": "staticwebassets\\images\\Java object-oriented programming.jpg"
+    },
+    {
+      "Id": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\Mobile communication technology.jpg",
+      "PackagePath": "staticwebassets\\images\\Mobile communication technology.jpg"
+    },
+    {
+      "Id": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\PLC Programming from Zero.jpg",
+      "PackagePath": "staticwebassets\\images\\PLC Programming from Zero.jpg"
+    },
+    {
       "Id": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\Pride and Prejudice.jpg",
       "PackagePath": "staticwebassets\\images\\Pride and Prejudice.jpg"
     },
     {
       "Id": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\Remarkably Bright Creatures.jpg",
       "PackagePath": "staticwebassets\\images\\Remarkably Bright Creatures.jpg"
+    },
+    {
+      "Id": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\Signals and Systems.jpg",
+      "PackagePath": "staticwebassets\\images\\Signals and Systems.jpg"
     },
     {
       "Id": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\The Castle.jpg",

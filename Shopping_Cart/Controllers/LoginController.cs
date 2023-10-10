@@ -4,12 +4,12 @@ using System.Diagnostics;
 
 namespace Shopping_Cart.Controllers
 {
-    public class HomeController : Controller
+    public class LoginController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ILogger<LoginController> _logger;
         private readonly MyDbContext db;
 
-        public HomeController(ILogger<HomeController> logger, MyDbContext db)
+        public LoginController(ILogger<LoginController> logger, MyDbContext db)
         {
             _logger = logger;
             this.db = db;
@@ -20,12 +20,7 @@ namespace Shopping_Cart.Controllers
             return View();
         }
 
-        public class UU
-        {
-            public string UserId { get; set; }
-            public string Password { get; set; }
-        }
-        public IActionResult Validate([FromBody] UU user)
+        public IActionResult Validate([FromBody] _User user)
         {
             if (ModelState.IsValid)
             {

@@ -1,0 +1,22 @@
+﻿
+@{
+    List<Product> products = (List<Product>)ViewData["products"];
+}
+
+<title>Book Gallery</title>
+
+<body>
+    @for(int i = 0; i < products.Count; i++ )
+    {
+        if (i % 3 == 0)
+        {
+            <br />
+        }
+        <div class="product">
+            <img src="~/images/@(products[i].Name).jpg">
+            <h3>@products[i].Name</h3>
+        </div>
+    }
+
+
+</body>
