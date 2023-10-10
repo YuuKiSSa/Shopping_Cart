@@ -2,6 +2,9 @@
 @{
     List<Product> products = (List<Product>)ViewData["products"];
 }
+@section Scripts{
+    <script src="~/js/Gallery.js"></script>
+}
 
 <title>Book Gallery</title>
 
@@ -13,8 +16,9 @@
             <br />
         }
         <div class="product">
-            <img src="~/images/@(products[i].Name).jpg">
+            <img src="~/image/@(products[i].Name).jpg">
             <h3>@products[i].Name</h3>
+            <p class="description">@products[i].Description</p>
         </div>
     }
 

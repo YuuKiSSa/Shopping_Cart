@@ -9,5 +9,9 @@ namespace Shopping_Cart.Models
         public DbSet<User> User { get; set; }
 
         public DbSet<Product> Product { get; set; }
+
+        public DbSet<Cart> Cart { get; set; }
+
+        public DbSet<Record> Record { get; set; }
     }
 }

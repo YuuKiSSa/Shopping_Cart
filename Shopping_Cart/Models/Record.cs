@@ -1,23 +1,25 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Shopping_Cart.Models
 {
-    public class Cart
+    public class Record
     {
-        public Cart()
+        public Record()
         {
             Id = new Guid();
         }
 
         public Guid Id { get; set; }
-        
+
         [ForeignKey("UserId")]
         public virtual User User { get; set; }
 
         [ForeignKey("ProductId")]
         public virtual Product Product { get; set; }
 
-        public int Quantity { get; set; }
+        public double Evaluation { get; set; }
+
+        public DateTime DateTime { get; set; }
+
     }
 }

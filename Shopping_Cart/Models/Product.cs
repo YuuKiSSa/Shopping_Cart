@@ -19,6 +19,6 @@ namespace Shopping_Cart.Models
 
         public double Evaluation { get; set; }
 
-        public virtual ICollection<Cart> Cart { get; set; }
+        public virtual ICollection<Record> Cart { get; set; }
     }
 }

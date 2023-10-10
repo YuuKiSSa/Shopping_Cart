@@ -90,3 +90,12 @@ input[type="password"]{
     .product img {
         max-width:100%;
     }
+    .product h3 {
+        height: 2em;
+    }
+.description {
+    max-height: 3em;
+    overflow: hidden;
+    white-space:normal;
+    
+}

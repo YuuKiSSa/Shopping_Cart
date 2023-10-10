@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5ISUg48xe48vUxvMGAmInlXsl1Jh2In8SoYpi4zVVx0=",
+  "Hash": "8r4P7aX3OBTo+ovGyOWWjX3JVOOdRUNTWRKhl3TJHiA=",
   "Source": "Shopping_Cart",
   "BasePath": "_content/Shopping_Cart",
   "Mode": "Default",
@@ -85,12 +85,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\Alive.jpg",
+      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\image\\Alive.jpg",
       "SourceId": "Shopping_Cart",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\",
       "BasePath": "_content/Shopping_Cart",
-      "RelativePath": "images/Alive.jpg",
+      "RelativePath": "image/Alive.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Alive.jpg"
+      "OriginalItemSpec": "wwwroot\\image\\Alive.jpg"
     },
     {
-      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\Digital Signal Processing.jpg",
+      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\image\\Digital Signal Processing.jpg",
       "SourceId": "Shopping_Cart",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\",
       "BasePath": "_content/Shopping_Cart",
-      "RelativePath": "images/Digital Signal Processing.jpg",
+      "RelativePath": "image/Digital Signal Processing.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Digital Signal Processing.jpg"
+      "OriginalItemSpec": "wwwroot\\image\\Digital Signal Processing.jpg"
     },
     {
-      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\Flipped.jpg",
+      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\image\\Flipped.jpg",
       "SourceId": "Shopping_Cart",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\",
       "BasePath": "_content/Shopping_Cart",
-      "RelativePath": "images/Flipped.jpg",
+      "RelativePath": "image/Flipped.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Flipped.jpg"
+      "OriginalItemSpec": "wwwroot\\image\\Flipped.jpg"
     },
     {
-      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\Gulliver's Travels.jpg",
+      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\image\\Gulliver's Travels.jpg",
       "SourceId": "Shopping_Cart",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\",
       "BasePath": "_content/Shopping_Cart",
-      "RelativePath": "images/Gulliver's Travels.jpg",
+      "RelativePath": "image/Gulliver's Travels.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Gulliver's Travels.jpg"
+      "OriginalItemSpec": "wwwroot\\image\\Gulliver's Travels.jpg"
     },
     {
-      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\Hamlet.jpg",
+      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\image\\Hamlet.jpg",
       "SourceId": "Shopping_Cart",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\",
       "BasePath": "_content/Shopping_Cart",
-      "RelativePath": "images/Hamlet.jpg",
+      "RelativePath": "image/Hamlet.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Hamlet.jpg"
+      "OriginalItemSpec": "wwwroot\\image\\Hamlet.jpg"
     },
     {
-      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\Hello Beautiful.jpg",
+      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\image\\Hello Beautiful.jpg",
       "SourceId": "Shopping_Cart",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\",
       "BasePath": "_content/Shopping_Cart",
-      "RelativePath": "images/Hello Beautiful.jpg",
+      "RelativePath": "image/Hello Beautiful.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Hello Beautiful.jpg"
+      "OriginalItemSpec": "wwwroot\\image\\Hello Beautiful.jpg"
     },
     {
-      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\Honey and Spice.jpg",
+      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\image\\Honey and Spice.jpg",
       "SourceId": "Shopping_Cart",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\",
       "BasePath": "_content/Shopping_Cart",
-      "RelativePath": "images/Honey and Spice.jpg",
+      "RelativePath": "image/Honey and Spice.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Honey and Spice.jpg"
+      "OriginalItemSpec": "wwwroot\\image\\Honey and Spice.jpg"
     },
     {
-      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\Jane Eyre.jpg",
+      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\image\\Jane Eyre.jpg",
       "SourceId": "Shopping_Cart",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\",
       "BasePath": "_content/Shopping_Cart",
-      "RelativePath": "images/Jane Eyre.jpg",
+      "RelativePath": "image/Jane Eyre.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,15 +218,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Jane Eyre.jpg"
+      "OriginalItemSpec": "wwwroot\\image\\Jane Eyre.jpg"
     },
     {
-      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\Java object-oriented programming.jpg",
+      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\image\\Java object-oriented programming.jpg",
       "SourceId": "Shopping_Cart",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\",
       "BasePath": "_content/Shopping_Cart",
-      "RelativePath": "images/Java object-oriented programming.jpg",
+      "RelativePath": "image/Java object-oriented programming.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,15 +235,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Java object-oriented programming.jpg"
+      "OriginalItemSpec": "wwwroot\\image\\Java object-oriented programming.jpg"
     },
     {
-      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\Mobile communication technology.jpg",
+      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\image\\Mobile communication technology.jpg",
       "SourceId": "Shopping_Cart",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\",
       "BasePath": "_content/Shopping_Cart",
-      "RelativePath": "images/Mobile communication technology.jpg",
+      "RelativePath": "image/Mobile communication technology.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -252,15 +252,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Mobile communication technology.jpg"
+      "OriginalItemSpec": "wwwroot\\image\\Mobile communication technology.jpg"
     },
     {
-      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\PLC Programming from Zero.jpg",
+      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\image\\PLC Programming from Zero.jpg",
       "SourceId": "Shopping_Cart",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\",
       "BasePath": "_content/Shopping_Cart",
-      "RelativePath": "images/PLC Programming from Zero.jpg",
+      "RelativePath": "image/PLC Programming from Zero.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -269,15 +269,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\PLC Programming from Zero.jpg"
+      "OriginalItemSpec": "wwwroot\\image\\PLC Programming from Zero.jpg"
     },
     {
-      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\Pride and Prejudice.jpg",
+      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\image\\Pride and Prejudice.jpg",
       "SourceId": "Shopping_Cart",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\",
       "BasePath": "_content/Shopping_Cart",
-      "RelativePath": "images/Pride and Prejudice.jpg",
+      "RelativePath": "image/Pride and Prejudice.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,15 +286,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Pride and Prejudice.jpg"
+      "OriginalItemSpec": "wwwroot\\image\\Pride and Prejudice.jpg"
     },
     {
-      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\Remarkably Bright Creatures.jpg",
+      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\image\\Remarkably Bright Creatures.jpg",
       "SourceId": "Shopping_Cart",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\",
       "BasePath": "_content/Shopping_Cart",
-      "RelativePath": "images/Remarkably Bright Creatures.jpg",
+      "RelativePath": "image/Remarkably Bright Creatures.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,15 +303,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Remarkably Bright Creatures.jpg"
+      "OriginalItemSpec": "wwwroot\\image\\Remarkably Bright Creatures.jpg"
     },
     {
-      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\Signals and Systems.jpg",
+      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\image\\Signals and Systems.jpg",
       "SourceId": "Shopping_Cart",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\",
       "BasePath": "_content/Shopping_Cart",
-      "RelativePath": "images/Signals and Systems.jpg",
+      "RelativePath": "image/Signals and Systems.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -320,15 +320,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Signals and Systems.jpg"
+      "OriginalItemSpec": "wwwroot\\image\\Signals and Systems.jpg"
     },
     {
-      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\The Castle.jpg",
+      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\image\\The Castle.jpg",
       "SourceId": "Shopping_Cart",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\",
       "BasePath": "_content/Shopping_Cart",
-      "RelativePath": "images/The Castle.jpg",
+      "RelativePath": "image/The Castle.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,15 +337,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\The Castle.jpg"
+      "OriginalItemSpec": "wwwroot\\image\\The Castle.jpg"
     },
     {
-      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\The Gadfly.jpg",
+      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\image\\The Gadfly.jpg",
       "SourceId": "Shopping_Cart",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\",
       "BasePath": "_content/Shopping_Cart",
-      "RelativePath": "images/The Gadfly.jpg",
+      "RelativePath": "image/The Gadfly.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -354,15 +354,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\The Gadfly.jpg"
+      "OriginalItemSpec": "wwwroot\\image\\The Gadfly.jpg"
     },
     {
-      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\The Mediterranean Diet Cookbook for Two.jpg",
+      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\image\\The Mediterranean Diet Cookbook for Two.jpg",
       "SourceId": "Shopping_Cart",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\",
       "BasePath": "_content/Shopping_Cart",
-      "RelativePath": "images/The Mediterranean Diet Cookbook for Two.jpg",
+      "RelativePath": "image/The Mediterranean Diet Cookbook for Two.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -371,15 +371,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\The Mediterranean Diet Cookbook for Two.jpg"
+      "OriginalItemSpec": "wwwroot\\image\\The Mediterranean Diet Cookbook for Two.jpg"
     },
     {
-      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\The Nightingale and the Rose.jpg",
+      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\image\\The Nightingale and the Rose.jpg",
       "SourceId": "Shopping_Cart",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\",
       "BasePath": "_content/Shopping_Cart",
-      "RelativePath": "images/The Nightingale and the Rose.jpg",
+      "RelativePath": "image/The Nightingale and the Rose.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -388,15 +388,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\The Nightingale and the Rose.jpg"
+      "OriginalItemSpec": "wwwroot\\image\\The Nightingale and the Rose.jpg"
     },
     {
-      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\The Red And Black.jpg",
+      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\image\\The Red And Black.jpg",
       "SourceId": "Shopping_Cart",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\",
       "BasePath": "_content/Shopping_Cart",
-      "RelativePath": "images/The Red And Black.jpg",
+      "RelativePath": "image/The Red And Black.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -405,15 +405,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\The Red And Black.jpg"
+      "OriginalItemSpec": "wwwroot\\image\\The Red And Black.jpg"
     },
     {
-      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\images\\Walden.jpg",
+      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\image\\Walden.jpg",
       "SourceId": "Shopping_Cart",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\",
       "BasePath": "_content/Shopping_Cart",
-      "RelativePath": "images/Walden.jpg",
+      "RelativePath": "image/Walden.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -422,7 +422,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Walden.jpg"
+      "OriginalItemSpec": "wwwroot\\image\\Walden.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\js\\Gallery.js",
+      "SourceId": "Shopping_Cart",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\",
+      "BasePath": "_content/Shopping_Cart",
+      "RelativePath": "js/Gallery.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Gallery.js"
     },
     {
       "Identity": "C:\\Users\\98173\\Desktop\\GDipSA\\ASP\\Shopping_Cart\\Shopping_Cart\\wwwroot\\js\\Login.js",
